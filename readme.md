@@ -6,6 +6,7 @@ In order to help developers, here is a list of materials they should be aware of
  * `Junior` Level
  * `Medium` level
  * `Senior` Level
+ * `Expert` Level
  * `God` Level
 
 **Note:** This is an opinionated list that was not written in the holy books. It is purely based on personal experience and can be updated as needed...
